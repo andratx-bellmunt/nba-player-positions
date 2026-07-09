@@ -2,11 +2,11 @@
 
 Proof of concept of machine learning project leveraging official NBA player statistics to optimize positional classification, map hybrid styles of play, and infer missing historical labels.
 
+
 ## 🔗 Live Report
 The full interactive data storytelling report—complete with narrative analysis and dynamic visualizations—is hosted live on my portfolio:
 👉 **[View the Interactive Portfolio Report](https://andratx-bellmunt.github.io/portfolio/projects/nba.html)**
 
----
 
 ## 🛠️ Project Architecture
 
